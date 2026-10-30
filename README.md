@@ -42,11 +42,26 @@ Sou **Luan Márcio Alvarenga de Arruda**, estudante de **Análise e Desenvolvime
 | Interfaces e aplicações web | Testes e validação de funcionalidades | Scripts e soluções para tarefas repetitivas |
 | JavaScript e lógica | Investigação e correção de erros | Organização e melhoria de processos |
 
-## 📁 Projetos
+## 📁 Projetos em destaque
 
-> 🚧 **Portfólio em construção.** Os projetos serão adicionados aqui à medida que seus códigos e demonstrações forem publicados.
+### 📦 [Sistema WM — Gestão de Vendas e Estoque](https://github.com/luanmarcioalvarenga-DevCp/sistema-wm)
 
-<!-- Ao publicar cada projeto, adicionar: nome, objetivo, tecnologias, link do repositório e link de demonstração. -->
+Aplicação de gestão comercial com funcionalidades de **pedidos, produtos, clientes, estoque, entregas e relatórios**. Um MVP para explorar fluxos reais de negócio e desenvolvimento de interfaces.
+
+![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=nextdotjs) ![React](https://img.shields.io/badge/React-18-149ECA?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+[📂 Ver repositório e documentação](https://github.com/luanmarcioalvarenga-DevCp/sistema-wm)
+
+> 🛠️ **MVP demonstrativo:** o repositório está sendo preparado para receber o código completo. Ainda não há demonstração online vinculada aqui.
+
+### 🚀 Próximos projetos a publicar
+
+- **FoodFlow — Sistema de pedidos e automações:** API REST, TypeScript, regras de negócio e integração de exemplo com n8n. *Em preparação para publicação.*
+- **Corações Azuis:** experiência web interativa com HTML, CSS e JavaScript. *Código local, ainda não publicado.*
+- **Hello Universo:** aplicação gráfica em Java. *Código local, ainda não publicado.*
+- **Vaca Estelar:** projeto visual em Java/Java2D. *Código local, ainda não publicado.*
+
+Os links dos próximos projetos serão adicionados conforme os repositórios estiverem disponíveis. Assim, cada projeto terá código, documentação e, quando possível, uma demonstração funcional.
 
 ## 📊 Minha atividade no GitHub
 
