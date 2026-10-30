@@ -58,10 +58,10 @@ Aplicação de gestão comercial com funcionalidades de **pedidos, produtos, cli
 
 - **FoodFlow — Sistema de pedidos e automações:** API REST, TypeScript, regras de negócio e integração de exemplo com n8n. *Em preparação para publicação.*
 - **[Corações Azuis](https://github.com/luanmarcioalvarenga-DevCp/coracoes-azuis):** experiência web interativa com HTML, CSS e JavaScript. *Código publicado.*
-- **Hello Universo:** aplicação gráfica em Java. *Código local, ainda não publicado.*
+- **[Hello Universo](https://github.com/luanmarcioalvarenga-DevCp/hello-universo):** aplicação gráfica interativa em Java Swing. *Código publicado.*
 - **[Vaca Estelar](https://github.com/luanmarcioalvarenga-DevCp/vaca-estelar):** projeto visual em Java/Java2D. *Código publicado.*
 
-O código do Hello Universo ainda está pendente de publicação. Os próximos links serão adicionados conforme os projetos estiverem disponíveis. Assim, cada projeto terá código, documentação e, quando possível, uma demonstração funcional.
+Os quatro projetos existentes já estão publicados. Novos projetos serão adicionados conforme forem desenvolvidos. Assim, cada projeto terá código, documentação e, quando possível, uma demonstração funcional.
 
 ## 📊 Minha atividade no GitHub
 
