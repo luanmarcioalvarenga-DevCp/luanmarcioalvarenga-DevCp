@@ -55,6 +55,10 @@ Aplicação de gestão comercial com funcionalidades de **pedidos, produtos, cli
 
 > 🛠️ **MVP demonstrativo:** código-fonte publicado. Ainda não há demonstração online vinculada aqui.
 
+### 🚚 [DeliveryMetrics Pro — Dashboard de Entregas](https://github.com/luanmarcioalvarenga-DevCp/deliverymetrics-pro)
+
+Painel responsivo com indicadores de entregas, gráficos, filtros, busca e exportação CSV. Desenvolvido em **HTML, CSS e JavaScript**, com dados fictícios e insights baseados em regras de negócio.
+
 ### 🤖 TaskMind AI — Agente de organização de tarefas
 
 Projeto em desenvolvimento para organizar tarefas, definir prioridades e explorar a integração com modelos de IA. **A integração com IA ainda está em configuração e teste; não é uma funcionalidade concluída.**
