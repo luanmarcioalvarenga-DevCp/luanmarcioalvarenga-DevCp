@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o Luan Márcio!
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento Web • Automação • QA
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvimento Web • QA • IA Generativa
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo%2C+criando+e+evoluindo;Transformando+ideias+em+projetos;Em+busca+de+oportunidades+em+tecnologia" alt="Texto animado de apresentação" />
 
@@ -14,12 +14,13 @@
 
 ## 🚀 Sobre mim
 
-Sou **Luan Márcio Alvarenga de Arruda**, estudante de **Análise e Desenvolvimento de Sistemas**. Estou construindo minha trajetória na tecnologia com interesse em **desenvolvimento de software, JavaScript, automações e qualidade de software (QA)**.
+Sou **Luan Márcio Alvarenga de Arruda**, estudante de **Análise e Desenvolvimento de Sistemas**. Estou construindo minha trajetória na tecnologia com interesse em **desenvolvimento de software, JavaScript, automações, qualidade de software (QA) e aplicações de IA generativa**.
 
 - 🎓 Em formação na área de tecnologia.
 - 🧠 Aprendendo por meio de estudos e projetos práticos.
 - 🛠️ Explorando lógica de programação, desenvolvimento web e testes.
-- 🎯 Buscando oportunidades para crescer profissionalmente em tecnologia.
+- 🎯 Buscando oportunidades de estágio e desenvolvimento profissional em tecnologia.
+- 🤖 Estudando aplicações práticas de IA, APIs e agentes para automação de tarefas.
 - 📂 Este perfil será atualizado conforme meus projetos forem publicados.
 
 ## 🧰 Tecnologias e ferramentas em estudo
@@ -54,6 +55,10 @@ Aplicação de gestão comercial com funcionalidades de **pedidos, produtos, cli
 
 > 🛠️ **MVP demonstrativo:** código-fonte publicado. Ainda não há demonstração online vinculada aqui.
 
+### 🤖 TaskMind AI — Agente de organização de tarefas
+
+Projeto em desenvolvimento para organizar tarefas, definir prioridades e explorar a integração com modelos de IA. **A integração com IA ainda está em configuração e teste; não é uma funcionalidade concluída.**
+
 ### 🚀 Próximos projetos a publicar
 
 - **FoodFlow — Sistema de pedidos e automações:** API REST, TypeScript, regras de negócio e integração de exemplo com n8n. *Em preparação para publicação.*
@@ -80,6 +85,7 @@ Os quatro projetos existentes já estão publicados. Novos projetos serão adici
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github)](https://github.com/luanmarcioalvarenga-DevCp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luan-marcio-alvarenga-12450742b/)
 
 **Aberto a aprender, colaborar e construir novas soluções.**
 
